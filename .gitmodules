@@ -1,0 +1,3 @@
+[submodule "RoboCube"]
+	path = RoboCube
+	url = https://github.com/krisvih32/RoboCube
